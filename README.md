@@ -1,1 +1,3 @@
-# yduong3.github.io
+# Yen Duong
+
+Visit my [website](https://yduong3.github.io.com/) to learn more about me.
